@@ -15,4 +15,4 @@ print("new testing")
 # git remote -v                                                      - 연결 확인
 # git push origin master
 
-# git clone " http:// " folder name                                  - 코드 다운로드
+# git clone " http:// " folder name                                  - 코드 다운로드 맞냐 ? !!
