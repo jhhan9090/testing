@@ -25,5 +25,13 @@ print("new testing")
 # compare to request        --- 코멘트 작성할 수 있어 ---
 # create full requests      --- master로 보낼수 있게 허락 받는과정 ---
 
+# mater 시점
 # merge pull request        --- 누르면 메인 코드에 반영된다 ---
 
+
+
+# git add .
+# git commit "message"
+# git pull origin master    --- master brach로 부터 새로운 코드를 받아온다.
+
+# git push origin master    --- 코드가 완성되면 다시 push
