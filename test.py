@@ -16,3 +16,14 @@ print("new testing")
 # git push origin master
 
 # git clone " http:// " folder name                                  - 코드 다운로드 맞냐 ? !!
+
+
+
+# ----- branch ----- 관리
+
+# git checkout -b freshman
+# compare to request        --- 코멘트 작성할 수 있어 ---
+# create full requests      --- master로 보낼수 있게 허락 받는과정 ---
+
+# merge pull request        --- 누르면 메인 코드에 반영된다 ---
+
